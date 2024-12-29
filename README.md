@@ -45,8 +45,8 @@ This app allows you to fully customize work and break durations, adapting the te
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/roland779/enhanced-pomodoro-timer.git
-   cd enhanced-pomodoro-timer
+   https://github.com/roland779/pomodoro_timer.git
+   cd pomodoro_timer
    ```
 
 2. Install Dependencies:
